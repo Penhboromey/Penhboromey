@@ -8,20 +8,17 @@ Passionate about learning programming and building creative tech projects.
 
 ## 💻 Tech I'm Learning
 
-![Scratch](https://img.shields.io/badge/Scratch-Learning-orange)
-![Code.org](https://img.shields.io/badge/Code.org-Learning-blue)
-![C](https://img.shields.io/badge/C-Programming-blue)
-![C++](https://img.shields.io/badge/C++-Programming-blue)
-![C#](https://img.shields.io/badge/C%23-Programming-green)
-![VB.NET](https://img.shields.io/badge/VB.NET-.NET-purple)
-![SQL](https://img.shields.io/badge/SQL-Database-orange)
-![Microsoft Access](https://img.shields.io/badge/Microsoft%20Access-Database-red)
-![HTML](https://img.shields.io/badge/HTML-Web-red)
-![CSS](https://img.shields.io/badge/CSS-Web-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-Web-yellow)
-![Git](https://img.shields.io/badge/Git-VersionControl-black)
-![GitHub](https://img.shields.io/badge/GitHub-Code-white)
-
+Code.org
+Scratch
+C / C++
+VB .NET
+C#
+SQL
+HTML, CSS, Bootstrap
+JavaScript
+Git & GitHub
+Google Workspace
+Microsoft Office
 ## 🎯 Goals
 
 * Become a professional software developer
